@@ -27,8 +27,8 @@ The project directory contains the following files:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/Heart-Disease-Prediction-using-Machine-Learning.git
-    cd Heart-Disease-Prediction-using-Machine-Learning
+    git clone https://github.com/Ashish9956/Heart_Disease_Prediction.git
+    cd Heart_Disease_Prediction
     ```
 
 2. **Install required packages:**
